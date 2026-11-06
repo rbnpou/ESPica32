@@ -1,3 +1,15 @@
+### ACLARACIÓN: ESPica32 es un proyecto de hardware abierto creado por el radioaficionado argentino Iván (LU8MIL, del canal de YouTube Radio Bunker). He creado y publicado este repositorio para darle visibilidad al proyecto ya que me ha parecido muy interesante y útil. Me comuniqué con el, pero aún no obtuve respuesta, y como es un proyecto abierto, me tomé este atrevimiento.
+
+Publicado originalmente en https://www.todo-sdr.com/espica32-cliente-kiwisdr/https://www.todo-sdr.com/espica32-cliente-kiwisdr/
+
+Sus redes son 
+
+- https://www.youtube.com/@RADIOBUNKER73
+- https://www.qrz.com/db/KN4TOU
+- https://x.com/lu8mil
+
+El siguiente README.md fue redactado por el y es parte del proyecto:
+
 # Radio KiwiSDR mínima (ESP32 + OLED + 1 encoder)
 
 Receptor de KiwiSDR por WiFi con lo mínimo: **ESP32 WROOM**, **pantalla OLED**, **un encoder** y **un módulo de audio**.
@@ -87,10 +99,10 @@ Se puede reiniciar con *Reiniciar contadores*.
 ## Pantalla
 
 ```
-Mi Kiwi                  S7     <- servidor (o estado) y S-meter en texto
+Mi Kiwi              S7         <- servidor (o estado) y S-meter en texto
         7100.00                 <- frecuencia en kHz
 [ LSB ] [ 1kHz ] [ V40 ]        <- modo | paso | volumen (invertido = lo que controla el encoder)
-[██████████        ]            <- S-meter gráfico
+[██████████            ]        <- S-meter gráfico
 ```
 
 (He interpretado "RST" como la intensidad de señal, es decir, el S-meter. Si querías otra cosa, dímelo.)
