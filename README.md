@@ -7,6 +7,7 @@ Sus redes son
 - https://www.youtube.com/@RADIOBUNKER73
 - https://www.qrz.com/db/KN4TOU
 - https://x.com/lu8mil
+- https://www.instagram.com/radiobunker73
 
 El siguiente README.md fue redactado por el y es parte del proyecto:
 
