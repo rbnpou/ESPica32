@@ -1,4 +1,4 @@
-### ACLARACIÓN: ESPica32 es un proyecto de hardware abierto creado por el radioaficionado argentino Iván (LU8MIL, del canal de YouTube Radio Bunker). He creado y publicado este repositorio para darle visibilidad al proyecto ya que me ha parecido muy interesante y útil. Me comuniqué con el, pero aún no obtuve respuesta, y como es un proyecto abierto, me tomé este atrevimiento.
+### ACLARACIÓN: ESPica32 es un proyecto de hardware abierto creado por el radioaficionado argentino Iván (LU8MIL, del canal de YouTube Radio Bunker). Con su aprobación he creado y publicado este repositorio para ampliar la llegada y darle visibilidad al proyecto.
 
 Publicado originalmente en https://www.todo-sdr.com/espica32-cliente-kiwisdr/https://www.todo-sdr.com/espica32-cliente-kiwisdr/
 
