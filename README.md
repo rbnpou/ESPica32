@@ -1,4 +1,4 @@
-### ACLARACIÓN: ESPica32 es un proyecto de hardware abierto creado por el radioaficionado argentino Iván (LU8MIL, del canal de YouTube Radio Bunker). Con su aprobación he creado y publicado este repositorio para ampliar la llegada y darle visibilidad al proyecto.
+### ACLARACIÓN: ESPica32 es un proyecto de hardware abierto creado por el radioaficionado argentino Iván (LU8MIL, del canal de YouTube Radio Bunker). Con su aprobación he creado y publicado este repositorio para ampliar la llegada y darle mas visibilidad.
 
 Publicado originalmente en https://www.todo-sdr.com/espica32-cliente-kiwisdr/https://www.todo-sdr.com/espica32-cliente-kiwisdr/
 
@@ -16,6 +16,8 @@ El siguiente README.md fue redactado por el y es parte del proyecto:
 Receptor de KiwiSDR por WiFi con lo mínimo: **ESP32 WROOM**, **pantalla OLED**, **un encoder** y **un módulo de audio**.
 El ESP32 se conecta al Kiwi como lo haría un navegador (WebSocket, puerto 8073) y saca el audio por el módulo.
 El Kiwi se elige desde una **página web del propio ESP32**, abierta desde el móvil u ordenador.
+
+https://www.youtube.com/watch?v=_WG1yjyvMFc
 
 ## Material
 
