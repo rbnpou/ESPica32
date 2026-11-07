@@ -17,7 +17,8 @@ Receptor de KiwiSDR por WiFi con lo mínimo: **ESP32 WROOM**, **pantalla OLED**,
 El ESP32 se conecta al Kiwi como lo haría un navegador (WebSocket, puerto 8073) y saca el audio por el módulo.
 El Kiwi se elige desde una **página web del propio ESP32**, abierta desde el móvil u ordenador.
 
-https://www.youtube.com/watch?v=_WG1yjyvMFc
+[![ESPpica32](https://www.todo-sdr.com/wp-content/uploads/2026/11/444-1536x864.jpg)](https://www.youtube.com/watch?v=_WG1yjyvMFc)
+
 
 ## Material
 
